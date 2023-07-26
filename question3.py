@@ -28,4 +28,4 @@ root.left.left = Node()
 root.left.right = Node()
  
  
-print("Height of tree is %d" % (maxDepth(root)))
+print("Depth of tree is %d" % (maxDepth(root)))
